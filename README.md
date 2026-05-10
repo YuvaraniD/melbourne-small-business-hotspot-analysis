@@ -167,7 +167,7 @@ Monitor industrial-to-commercial transition zones for redevelopment opportunitie
 ![Heatmap](visualisations/industry_hotspot_heatmap.png)
 
 ### Top Industries by Suburb (Percentage)
-![Bar Chart](visualisations/top3_industries_percentage.png)
+![Bar Chart](visualisations/top3_industries_suburb.png)
 
 ### Forecast Trend Analysis
 ![Forecast](visualisations/forecast_trend_analysis.png)
