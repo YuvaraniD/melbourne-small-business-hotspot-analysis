@@ -1,5 +1,7 @@
 # Melbourne Small Business Hotspot Analysis
 
+A data analytics and forecasting project using City of Melbourne open data to identify small business hotspots and growth trends.
+
 ## Project Overview
 
 This project analyses small business establishment trends across Melbourne suburbs to identify commercial hotspots by industry and forecast future growth patterns.
@@ -22,6 +24,9 @@ This project provides suburb-level forecasting insights to support strategic dec
 ---
 
 ## Data Sources
+
+All datasets are retrieved dynamically via the City of Melbourne Open Data API.  
+No static datasets are stored in this repository.
 
 ### Business Establishments and Jobs Data
 
@@ -97,7 +102,13 @@ Classified forecasted business activity as:
 * Declining
 
 ---
+## Key Outcome
 
+This project delivers a data-driven understanding of Melbourne’s small business ecosystem by identifying current industry hotspots and forecasting future growth patterns across suburbs.
+
+The insights support urban planning, SME development, and targeted economic investment strategies.
+
+---
 ## Key Insights
 
 ### Melbourne CBD
@@ -150,26 +161,30 @@ Monitor industrial-to-commercial transition zones for redevelopment opportunitie
 
 ---
 
-## Visual Outputs
+## Key Visualisations
 
-This project includes:
+### Industry Hotspot Heatmap
+![Heatmap](visualisations/industry_hotspot_heatmap.png)
 
-* Industry hotspot heatmaps
-* Forecast trend visualisations
-* Geospatial business distribution maps
-* Emerging growth analysis
+### Top Industries by Suburb (Percentage)
+![Bar Chart](visualisations/top3_industries_percentage.png)
 
+### Forecast Trend Analysis
+![Forecast](visualisations/forecast_trend_analysis.png)
+
+### Future Business Hotspots
+![Forecast Heatmap](visualisations/forecast_hotspot_heatmap.png)
+
+### Business Distribution Map
+![Map](visualisations/business_distribution_map.png)
 ---
 
 ## Repository Structure
 
 notebooks/
-data/
 visualisations/
 README.md
 
 ---
 
-## Key Outcome
 
-Forecasted 10-year small business growth patterns across Melbourne suburbs, identifying emerging commercial clusters to support data-driven urban economic planning.
