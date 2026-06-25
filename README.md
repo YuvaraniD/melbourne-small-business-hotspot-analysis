@@ -4,7 +4,7 @@ A data analytics and forecasting project using City of Melbourne open data to id
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyses small business establishment trends across Melbourne suburbs to identify industry hotspots and forecast future growth patterns.
 
@@ -12,7 +12,7 @@ Using open data from the City of Melbourne, this analysis supports evidence-base
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Economic development teams need insights into:
 
@@ -25,7 +25,7 @@ This project provides suburb-level forecasting insights to support strategic dec
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 
 All datasets are retrieved dynamically via the City of Melbourne Open Data API.  
 No static datasets are stored in this repository.
@@ -49,7 +49,7 @@ Business-level geographic information including:
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Programming:** Python, Pandas, NumPy  
 - **Visualisation:** Matplotlib, Seaborn, Folium  
@@ -58,7 +58,7 @@ Business-level geographic information including:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Collection
 Data retrieved using City of Melbourne public API endpoints.
@@ -94,7 +94,7 @@ Industries classified as:
 
 ---
 
-## 📈 Key Outcome
+## Key Outcome
 
 This project provides a data-driven view of Melbourne’s small business ecosystem by identifying current industry hotspots and forecasting future growth patterns across suburbs.
 
@@ -105,9 +105,9 @@ The insights support:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-### 📍 Melbourne CBD
+### Melbourne CBD
 Strong projected growth in:
 - Accommodation & Food Services  
 - Retail Trade  
@@ -115,7 +115,7 @@ Strong projected growth in:
 
 ---
 
-### 📍 Docklands
+### Docklands
 Emerging commercial growth driven by:
 - Retail Trade  
 - Health Care  
@@ -123,22 +123,22 @@ Emerging commercial growth driven by:
 
 ---
 
-### 📍 Carlton
+### Carlton
 Continued dominance in hospitality and food services.
 
 ---
 
-### 📍 East Melbourne & Parkville
+### East Melbourne & Parkville
 Strong healthcare and social assistance growth corridors.
 
 ---
 
-### 📍 West Melbourne
+### West Melbourne
 Increasing growth in professional and consulting services.
 
 ---
 
-## 📊 Key Visualisations
+## Key Visualisations
 
 ### Industry Hotspot Heatmap
 ![Heatmap](visualisations/industry_hotspot_heatmap.png)
@@ -157,14 +157,14 @@ Increasing growth in professional and consulting services.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 notebooks/
 visualisations/
 README.md
 
 ---
 
-## 📌 Key Takeaway
+## Key Takeaway
 
 Melbourne’s small business growth is increasingly concentrated in service-based industries, with clear emerging hotspots in CBD, Docklands, and healthcare-related suburbs.
 
