@@ -170,7 +170,7 @@ Melbourne’s small business growth is increasingly concentrated in service-base
 
 ---
 
-## 👤 Author
+## Author
 
 **Yuvarani Dharmasivam**  
 Master of Data Science – Deakin University
